@@ -1,0 +1,10 @@
+table {
+  border: 1px solid;
+}
+tr {
+width: 30px;;
+}
+.h2{
+  align-items: center;
+  justify-content: center;
+}
